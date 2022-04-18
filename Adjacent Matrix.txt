@@ -1,0 +1,3 @@
+Adjacent Matrix adalah matrix persegi yang digunakan untuk merepresentasikan graf yang berdekatan.
+Djikstra algorithm adalah sebuah algoritma rakus yang digunakan untuk memecahkan masalah jarak pendek untuk sebuah graf berarah yang bernilai nonnegatif.
+contoh Djikstra : perhitungan jarak terdekat 
